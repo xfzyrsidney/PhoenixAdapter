@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-![logo](http://phoenix.apache.org/images/logo.png)
+
 
 <b>Adapted some code of Phoenix for CDH5,  use scala 2.12 to build . </b>.
 
