@@ -19,5 +19,4 @@ limitations under the License.
 
 <b>Currently CDH 5.7 not support Apache phoenix, optimize some code of Phoenix for CDH5.7.x,  use scala 2.10 to build . </b>.
 
-Copyright ©2014 [Apache Software Foundation](http://www.apache.org/). All Rights Reserved. 
-# PhoenixAdapter
+
